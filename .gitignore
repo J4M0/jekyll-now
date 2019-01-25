@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site
 .DS_Store
 .jekyll
@@ -8,3 +9,34 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+=======
+# Jekyll
+_site/
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+
+# Ruby
+.bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
+
+# Files
+.analysis
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
+bbin/
+bin/
+coverage
+gh-pages/
+pkg/
+test/dest
+tmp/*
+>>>>>>> upstream/master
