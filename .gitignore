@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
-=======
 # Jekyll
 _site/
 .jekyll-cache
@@ -39,4 +27,3 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
->>>>>>> upstream/master
